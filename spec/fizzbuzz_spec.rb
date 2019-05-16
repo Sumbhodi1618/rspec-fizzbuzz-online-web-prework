@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 require_relative'../fizzbuzz.rb'
+=======
+
+>>>>>>> fbc3fea2c41a03f3cd8324330acf7b01ccf084f1
 # We are missing a 'require_relative' here. Check README.md for instructions and an explanation! 
 
 describe "fizzbuzz" do
